@@ -20,7 +20,7 @@ SPA додаток для пошуку погоди та збереження у
 
 1. **Клонування репозиторію:**
    ```bash
-   git clone <посилання-на-твій-гітхаб>
+   git clone <https://github.com/Keraunos07/weather-dashboard.git>
    cd weather-dashboard
 
 2. **Встановлення залежностей:**
